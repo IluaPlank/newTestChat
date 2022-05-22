@@ -1,0 +1,31 @@
+
+Name: Tomas date : вс 2022.05.22 04:52:04 PM YEKT
+message :Новый участник Tomas вошёл в чат!, для выхода наберите /exit 
+Name: Tomas date : вс 2022.05.22 04:52:04 PM YEKT
+message :Клиентов в чате = 1
+Name: SAms date : вс 2022.05.22 04:53:34 PM YEKT
+message :Новый участник SAms вошёл в чат!, для выхода наберите /exit 
+Name: SAms date : вс 2022.05.22 04:53:34 PM YEKT
+message :Клиентов в чате = 2
+Name: Reva date : вс 2022.05.22 04:53:35 PM YEKT
+message :Новый участник Reva вошёл в чат!, для выхода наберите /exit 
+Name: Reva date : вс 2022.05.22 04:53:35 PM YEKT
+message :Клиентов в чате = 3
+Name: Reva date : вс 2022.05.22 04:53:40 PM YEKT
+message :asda
+Name: SAms date : вс 2022.05.22 04:53:42 PM YEKT
+message :asd
+Name: Tomas date : вс 2022.05.22 04:53:47 PM YEKT
+message :[f[f[f[f
+Name: Tomas date : вс 2022.05.22 04:53:50 PM YEKT
+message :Tomas покинул чат
+Name: Tomas date : вс 2022.05.22 04:53:50 PM YEKT
+message :Клиентов в чате = 2
+Name: SAms date : вс 2022.05.22 04:53:50 PM YEKT
+message :SAms покинул чат
+Name: SAms date : вс 2022.05.22 04:53:50 PM YEKT
+message :Клиентов в чате = 1
+Name: Reva date : вс 2022.05.22 04:53:52 PM YEKT
+message :Reva покинул чат
+Name: Reva date : вс 2022.05.22 04:53:52 PM YEKT
+message :Клиентов в чате = 0

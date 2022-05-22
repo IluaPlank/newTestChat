@@ -59,7 +59,7 @@ public class TCPConnection {
         }
     }
 
-    public synchronized String register() throws IOException {
+    public String register() throws IOException {
         String name;
         while (true) {
             send("Вы зарегистрированы? да/нет");

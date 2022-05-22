@@ -28,7 +28,7 @@ public class Server implements TCPConnectionListn {
         }
     }
 
-    public synchronized void onConnectionReady(TCPConnection tcpConnection) {
+    public void onConnectionReady(TCPConnection tcpConnection) {
         String  nameUser = null;
         try {
             nameUser = tcpConnection.register();
